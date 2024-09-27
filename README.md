@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/POQdLnh2)
 # GDIM 31 Fall 2024
 
@@ -9,14 +10,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [x] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+I'm hoping to learn the "proper" way of coding games in order to ensure that the game runs as best as possible. I do have personal experience coding games, but since I have never officially learned programming for games in a class setting, there are a few areas I could improve upon.
+
 4. What, if anything, are you nervous about for this class?
+Since I have prior coding experience, I'm not too worried about completing assignments. If anything, I'm nervous about working in group projects since I tend to struggle with effective communication between other classmates.
 
 ## Prior Experience
 
@@ -25,10 +29,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+I know C++, GDScript, and have a bit of experience with Java/Javascript. 
 
 2. Game development (any engine)
+I have been developing a game in Godot since this April, so I am most comfortable in Godot. I have a tiny bit of experience with Game Maker Studio 2.
 
 3. Unity
+I have helped friends code games in Unity, but I have no experience with it myself.
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +47,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+NA
 
 2. Scope management
+Keeping a game within the bounds of what can reasonably be completed depending on the amount of people working on the game, how experienced the team is, and how much of a budget you have.
 
 3. Iteration
+Repeating a section of code a set amount of times, a varied amount of times, or until a certain condition is met.
 
 4. Object-Oriented programming
+Certain programming languages that use "objects" as a way to efficiently store and manipulate data. Objects contain a set of custom methods and properties, and are created by defining a class or struct.
 
 5. Model-View-Controller architecture
+NA
 
 ## Complete!
 
